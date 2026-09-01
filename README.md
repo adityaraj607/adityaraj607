@@ -11,6 +11,7 @@ Hi, I'm Aditya Raj 👋<br>B.Tech CSE student at SRM University, specializing in
 ![](https://github-readme-stats.shion.dev/api?username=adityaraj607&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=adityaraj607&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=adityaraj607&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 #LeetCode Stats:
 ![](https://leetcard.jacoblin.cool/X8atQzPq33?theme=dark&font=baloo&ext=heatmap)
 ---
